@@ -7,7 +7,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
   },
-  "homepage": "http://victoray.github.io/videos-React",
+  "homepage": "http://victoray.github.io/videos-React/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "gh-pages": "^2.1.1"
   }
 }
